@@ -1,0 +1,19 @@
+{
+  "name": "SolidityHandbook",
+  "version": "0.0.1",
+  "description": "Solidity Handbook for korean developers",
+  "main": "index.js",
+  "authors": {
+    "name": "Donghun An",
+    "email": "iandonghun@gmail.com"
+  },
+  "repository": "https://github.com/GreatHomeless/solidity-handbook.git/Solidity Handbook",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
